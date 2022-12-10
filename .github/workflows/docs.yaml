@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Build & Publish 🚀
+    name: Build & Publish Docs & Slides
     runs-on: ubuntu-latest
     env:
       INPUTPATH: docs
