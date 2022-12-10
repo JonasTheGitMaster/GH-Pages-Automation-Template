@@ -66,7 +66,7 @@ This script will convert the documents and publish them to the gh-pages branch. 
 
 ### Config
 
-You can configure the inut and output dir in the `config.sh` file. 
+You can configure the input and output dir in the `config.sh` file. 
 
 |              | input-dir | output-dir | slides-convert |
 |--------------|-----------|------------|----------------|
