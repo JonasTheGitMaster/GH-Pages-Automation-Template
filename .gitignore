@@ -45,6 +45,7 @@
 ### Dev ###
 **/.idea
 **/.vscode
+**/.node_modules
 
 ### Docs/Slides ###
 dist
